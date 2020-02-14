@@ -1,5 +1,6 @@
 body {
-  background: red;
+  background:url('sky.jpeg');
+  background-size: cover;
   margin:0;
 }
 .blue {
@@ -11,9 +12,11 @@ body {
   background: blue;
 }
 .container {
+  position:relative;
   width:800px;
   height:90vh;
-  background: orange;
+  background: pink;
   margin:auto;
   margin-top: 10vh;
+  margin-bottom: 10vh;
 }
