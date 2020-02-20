@@ -1,8 +1,15 @@
 body{
-  background:white;
+  background-image:url("notebook.jpg");
 }
 h1{
   background:black;
   color:white;
   margin:auto;
+}
+.content {
+  padding-left:130px;
+  padding-top: 100px;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
