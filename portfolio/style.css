@@ -1,5 +1,5 @@
 body {
-  background:beige;
+  background:white;
   background-size: cover;
   margin:0;
 }
@@ -29,7 +29,7 @@ body {
   float:left;
   width: 120px;
   height: 60px;
-  background: #043e5b;
+  background: pink;
   text-align: center;
   margin-left: 50px;
   margin-top: 10px;
@@ -66,4 +66,15 @@ h1{
 
 .button:hover h1{
   opacity: 0.8;
+}
+.about {
+  line-height: 50px;
+  width:500px;
+  height:500px;
+  float:right;
+}
+.aboutpicture {
+  width:10px;
+  height:10px;
+  float:left;
 }
