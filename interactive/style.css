@@ -1,0 +1,116 @@
+body {
+  background-color: white;
+}
+.title {
+  /* position: absolute; */
+  text-align: center;
+  font-size: 70px;
+  background-image: url("background.png");
+  width:100%;
+  height:600px;
+}
+.first {
+  display:none;
+  position: relative;
+  text-align: center;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.second {
+  display:none;
+  position: relative;
+  text-align: center;
+  padding-top: 55px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.third {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.fourth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.fifth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.sixth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.seventh {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.eigth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.ninth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.tenth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.eleventh {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.twelfth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
+.thirteenth {
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  width:100%;
+  height:600px;
+}
