@@ -68,4 +68,18 @@ $(document).ready(function(){
       $(".thirteenth").fadeOut();
       $(".title").fadeIn();
     });
+
+  $("#money").click(function(){
+      $(".money").animate({
+        height: '250px',
+        width: '250px'
+      });
+    });
+
+  $("#eggs").click(function(){
+      $(".third").append("egg");
+    });
+
+
+
 });
