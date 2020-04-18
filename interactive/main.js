@@ -75,9 +75,11 @@ $(document).ready(function(){
         width: '250px'
       });
     });
-
+    $("egg").hide();
+  var egg = 1;
   $("#eggs").click(function(){
-      $(".third").append("egg");
+      $("egg"+egg).show();
+      egg++;
     });
 
 
