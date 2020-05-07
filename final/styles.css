@@ -1,0 +1,67 @@
+
+.intro {
+  color: black;
+  text-align: center;
+  padding-top: 200px;
+  font-family: cursive;
+  border-color: black;
+  border-style: solid;
+  height:400px;
+  width:100%;
+}
+.intro img {
+  position:fixed;
+  width:150px;
+  height:150px;
+  float:left;
+  top:20px;
+  left:20px;
+}
+
+.bar {
+  background: blue;
+  width: 20%;
+  height: 100vh;
+  display: none;
+  float: left;
+}
+
+.type {
+  display:none;
+  font-family: cursive;
+  text-align: center;
+  padding-top: 200px;
+  border-color: black;
+  border-style: solid;
+  height:400px;
+  width:100%;
+}
+.type img {
+  position:fixed;
+  width:150px;
+  height:150px;
+  float:left;
+  top:20px;
+  left:20px;
+}
+
+.astrology {
+  background-image: url("planet.jpg");
+  display:none;
+  font-family: cursive;
+  text-align: center;
+  padding-top: 200px;
+  border-color: black;
+  border-style: solid;
+  height:400px;
+  width:100%;
+}
+
+.astrology img {
+  position:fixed;
+  width:150px;
+  height:150px;
+  float:left;
+  top:20px;
+  left:20px;
+}
