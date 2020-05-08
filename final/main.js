@@ -205,6 +205,10 @@ $(document).ready(function(){
     $(".bar").fadeIn();
     var bar1 = $("#bar1");
     var bar2 = $("#bar2");
+    var bar3 = $("#bar3");
+    var bar4 = $("#bar4");
+    var bar5 = $("#bar5");
+
     astro = $("#sign").val();
 
     var pallett = name.length + astro.length;
