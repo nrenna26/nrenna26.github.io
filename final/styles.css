@@ -4,7 +4,7 @@
   text-align: center;
   padding-top: 200px;
   font-family: cursive;
-  font-size: large;
+  font-size: 45px;
   border-color: black;
   border-style: solid;
   height:400px;
@@ -30,6 +30,7 @@
 .type {
   display:none;
   font-family: cursive;
+  font-size: 30px;
   text-align: center;
   padding-top: 200px;
   border-color: black;
@@ -49,6 +50,7 @@
 .astrology {
   display:none;
   font-family: cursive;
+  font-size: 30px;
   text-align: center;
   padding-top: 200px;
   border-color: black;
